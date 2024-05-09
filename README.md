@@ -7,10 +7,10 @@ This project is a simple TodoList website created using HTML, CSS, and JavaScrip
 Check out the live demo https://todolistbyakch.ccbp.tech/
 
 ## Features
-Add new tasks to the list.
-Mark tasks as complete.
-Remove tasks from the list.
-Clean and user-friendly interface.
+1. Add new tasks to the list.
+2. Mark tasks as complete.
+3. Remove tasks from the list.
+4. Clean and user-friendly interface.
 
 ## Installation
 
