@@ -4,7 +4,7 @@ Description
 This project is a simple TodoList website created using HTML, CSS, and JavaScript. It allows users to add, remove, and mark tasks as complete. It also features a clean and intuitive user interface for better usability.
 
 Demo
-Check out the live demo todolistbyakch.ccbp.tech.
+Check out the live demo https://todolistbyakch.ccbp.tech/
 
 Features
 Add new tasks to the list.
